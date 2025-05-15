@@ -28,6 +28,8 @@
   <a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf"><b>Paper Link</b>👁️</a>
 </div>
 
+修改内容，触发索引更新
+
 ## 1. Introduction
 
 We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. 
